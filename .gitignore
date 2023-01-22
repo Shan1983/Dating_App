@@ -477,3 +477,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+client/ssl/server.crt
+client/ssl/server.key
+API/datingapp.db-wal
+API/datingapp.db-shm
